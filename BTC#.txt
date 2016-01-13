@@ -1,0 +1,4 @@
+Xây d?ng qly sv:
+SV: H? tên,mã, l?p quê,di?m t?ng k?t.
+Ðóng gói các thu?c tính, Hi?n th? danh sách sinh viên trên gridview ho?c ListView. Thông tin du?c luu trong file txt ho?c SQL
+th?c di?n kh? nang gia di?n so sánh Icomparer ho?c Icompable d? s?p  x?p. th?c hi?n thêm s?a xóa tìm ki?m
